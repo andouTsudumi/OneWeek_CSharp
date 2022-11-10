@@ -5,4 +5,92 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="basic\basic1day\basic1.cs" />
+    <Compile Remove="basic\basic1day\basic2.cs" />
+    <Compile Remove="basic\basic2day\basic1.cs" />
+    <Compile Remove="basic\basic2day\basic2.cs" />
+    <Compile Remove="basic\basic2day\basic3.cs" />
+    <Compile Remove="basic\basic2day\basic4.cs" />
+    <Compile Remove="basic\basic2day\basic5.cs" />
+    <Compile Remove="basic\basic2day\basic6.cs" />
+    <Compile Remove="basic\basic3day\basic1.cs" />
+    <Compile Remove="basic\basic3day\basic2.cs" />
+    <Compile Remove="basic\basic3day\basic3.cs" />
+    <Compile Remove="basic\basic3day\basic4.cs" />
+    <Compile Remove="basic\basic3day\basic5.cs" />
+    <Compile Remove="basic\basic3day\basic6.cs" />
+    <Compile Remove="basic\basic4day\basic1.cs" />
+    <Compile Remove="basic\basic4day\basic2.cs" />
+    <Compile Remove="basic\basic4day\basic3.cs" />
+    <Compile Remove="basic\basic4day\basic4.cs" />
+    <Compile Remove="basic\basic4day\basic5.cs" />
+    <Compile Remove="basic\basic4day\basic6.cs" />
+    <Compile Remove="basic\basic5day\basic1.cs" />
+    <Compile Remove="basic\basic5day\basic2.cs" />
+    <Compile Remove="basic\basic5day\basic3.cs" />
+    <Compile Remove="basic\basic5day\basic4.cs" />
+    <Compile Remove="basic\basic5day\basic5.cs" />
+    <Compile Remove="basic\basic5day\basic6.cs" />
+    <Compile Remove="basic\basic6day\basic6-1\Cass1.cs" />
+    <Compile Remove="basic\basic6day\basic6-1\main.cs" />
+    <Compile Remove="basic\basic6day\basic6-2\Class2.cs" />
+    <Compile Remove="basic\basic6day\basic6-2\main.cs" />
+    <Compile Remove="basic\basic7day\basic7-1\main.cs" />
+    <Compile Remove="basic\basic7day\basic7-1\Person.cs" />
+    <Compile Remove="basic\basic7day\basic7-2\Access.cs" />
+    <Compile Remove="basic\basic7day\basic7-2\main.cs" />
+    <Compile Remove="basic\basic7day\basic7-3\main.cs" />
+    <Compile Remove="basic\basic7day\basic7-3\Person2.cs" />
+    <Compile Remove="practical\practical1day\1-1\main.cs" />
+    <Compile Remove="practical\practical1day\1-1\Person.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="basic\basic3day\basic1.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="basic\basic1day\basic1.cs" />
+    <None Include="basic\basic1day\basic2.cs" />
+    <None Include="basic\basic2day\basic1.cs" />
+    <None Include="basic\basic2day\basic3.cs" />
+    <None Include="basic\basic2day\basic4.cs" />
+    <None Include="basic\basic2day\basic5.cs" />
+    <None Include="basic\basic2day\basic6.cs" />
+    <None Include="basic\basic3day\basic2.cs" />
+    <None Include="basic\basic3day\basic3.cs" />
+    <None Include="basic\basic3day\basic4.cs" />
+    <None Include="basic\basic3day\basic5.cs" />
+    <None Include="basic\basic3day\basic6.cs" />
+    <None Include="basic\basic4day\basic1.cs" />
+    <None Include="basic\basic4day\basic2.cs" />
+    <None Include="basic\basic4day\basic3.cs" />
+    <None Include="basic\basic4day\basic4.cs" />
+    <None Include="basic\basic4day\basic5.cs" />
+    <None Include="basic\basic4day\basic6.cs" />
+    <None Include="basic\basic5day\basic1.cs" />
+    <None Include="basic\basic5day\basic2.cs" />
+    <None Include="basic\basic5day\basic3.cs" />
+    <None Include="basic\basic5day\basic4.cs" />
+    <None Include="basic\basic5day\basic5.cs" />
+    <None Include="basic\basic5day\basic6.cs" />
+    <None Include="basic\basic6day\basic6-1\Cass1.cs" />
+    <None Include="basic\basic6day\basic6-1\main.cs" />
+    <None Include="basic\basic6day\basic6-2\Class2.cs" />
+    <None Include="basic\basic6day\basic6-2\main.cs" />
+    <None Include="basic\basic7day\basic7-1\main.cs" />
+    <None Include="basic\basic7day\basic7-1\Person.cs" />
+    <None Include="basic\basic7day\basic7-2\Access.cs" />
+    <None Include="basic\basic7day\basic7-2\main.cs" />
+    <None Include="basic\basic7day\basic7-3\main.cs" />
+    <None Include="basic\basic7day\basic7-3\Person2.cs" />
+    <None Include="practical\practical1day\1-1\main.cs" />
+    <None Include="practical\practical1day\1-1\Person.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="basic\basic2day\basic2.cs" />
+  </ItemGroup>
+
 </Project>
