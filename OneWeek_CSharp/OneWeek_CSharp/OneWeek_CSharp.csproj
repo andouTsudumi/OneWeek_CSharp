@@ -44,6 +44,7 @@
     <Compile Remove="basic\basic7day\basic7-3\Person2.cs" />
     <Compile Remove="practical\practical1day\1-1\main.cs" />
     <Compile Remove="practical\practical1day\1-1\Person.cs" />
+    <Compile Remove="practical\practical1day\1-2\main.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -87,6 +88,7 @@
     <None Include="basic\basic7day\basic7-3\Person2.cs" />
     <None Include="practical\practical1day\1-1\main.cs" />
     <None Include="practical\practical1day\1-1\Person.cs" />
+    <None Include="practical\practical1day\1-2\main.cs" />
   </ItemGroup>
 
   <ItemGroup>
